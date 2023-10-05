@@ -1,50 +1,60 @@
 body {
-    margin: 60px auto;
-    width: 70%;
+    margin: 0;
+    padding: 0;
+    font-family: 'Helvetica', 'Arial', 'Sans-Serif';
     background-color: #387C59;
-}
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
     color: #FFF8B9;
 }
-nav ul li, footer ul li {
+
+nav ul {
+    background-color: #333;
+    text-align: center;
+    padding: 10px 0;
+}
+
+nav ul li {
     display: inline;
     margin-right: 20px;
 }
-a {
+
+nav a {
     text-decoration: none;
     color: #FFF8B9;
 }
-a:hover {
-    text-decoration: underline;
+
+.container {
+    width: 70%;
+    margin: 0 auto;
+    text-align: center;
 }
-h1 {
+
+.blurb h1 {
     font-size: 2em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #FFF8B9;
+    margin-bottom: 20px;
 }
-h3 {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    color: #FFF8B9;
+
+.stats {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 40px;
 }
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #FFF8B9;
+
+.languages,
+.github-stats,
+.repositories {
+    flex: 1;
+    margin: 0 20px;
 }
+
+.github-stats img,
+.repositories img {
+    width: 100%;
+    max-width: 400px;
+}
+
 footer {
     border-top: 1px solid #FFF8B9;
     font-size: .8em;
-}
-
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
-
-ul.posts li {
-    list-style: none;
+    text-align: center;
+    padding: 10px 0;
 }
