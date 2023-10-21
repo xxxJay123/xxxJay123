@@ -2,12 +2,12 @@ body {
     margin: 0;
     padding: 0;
     font-family: 'Helvetica', 'Arial', 'Sans-Serif';
-    background-color: #F5F5F5; /* Light Gray Background */
-    color: #333; /* Dark Text Color */
+    background-color: #2C3E50; /* Dark Background Color */
+    color: #ECF0F1; /* Light Text Color */
 }
 
 nav ul {
-    background-color: #333;
+    background-color: #2980B9; /* Blockchain Blue */
     text-align: center;
     padding: 10px 0;
 }
@@ -19,7 +19,7 @@ nav ul li {
 
 nav a {
     text-decoration: none;
-    color: #FFF8B9;
+    color: #ECF0F1; /* Light Text Color */
 }
 
 .container {
@@ -31,6 +31,7 @@ nav a {
 .blurb h1 {
     font-size: 2em;
     margin-bottom: 20px;
+    color: #3498DB; /* Blockchain Blue */
 }
 
 .stats {
@@ -53,7 +54,7 @@ nav a {
 }
 
 footer {
-    border-top: 1px solid #FFF8B9;
+    border-top: 1px solid #2980B9; /* Blockchain Blue */
     font-size: .8em;
     text-align: center;
     padding: 10px 0;
