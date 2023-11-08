@@ -65,10 +65,7 @@ mark {
   z-index: 1;
 
 }
-body {
-  background-color: #00ff00; /* Green */
-  color: #00ff00; /* Green */
-}
+
 
 /* Keeping "Fresh" in its original color */
 mark {
