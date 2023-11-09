@@ -42,16 +42,15 @@ canvas {
   text-align: center;
   padding: 20px;
 }
-
+mark {
+  background-color: #d0ff00; /* Yellow */
+  color: #000000; /* Black */
+}
 h1 {
   font-size: 2.5em;
   margin-bottom: 10px;
 }
 
-mark {
-  background-color:#00ff00; /* Yellow */
-  color: #000000; /* Black */
-}
 .name{
   color: #00ff00;
 }
@@ -64,20 +63,15 @@ mark {
   margin-top: 20px;
   position: relative; /* Add this line to position the links relative to the container */
   z-index: 1;
-
-}
-
-
-/* Keeping "Fresh" in its original color */
-mark {
-  background-color: #d0ff00; /* Yellow */
-  color: #000000; /* Black */
 }
 
 .green-text {
   color: #f7f7f7; /* Green */
 }
-.link {
+
+
+lr {
+  color: white;
   display: inline-block;
   margin: 10px;
   padding: 10px 20px;
@@ -87,52 +81,61 @@ mark {
   transition: all 0.3s ease;
 }
 
-.link:hover {
-  background-color: #00ff00; /* White */
-  color: #000000; /* Black */
+.links-box-word:hover{
+  color: #000000;
+  background-color: #00ff00;
 }
 
-
-.links .link {
-  border-color: #5a5a5a; /* Green */
-  color: #ffffff; /* White */
-}
 .footer {
   margin-top: 50px;
 }
 
-.link.small {
+.social-links a {
+  text-decoration: none;
+  color: #00ff00;
   font-size: 0.9em;
+  margin: 10px;
+  padding: 10px 45px;
+  transition: all 0.4s ease;
 }
 
-.link.alt {
-  background: none;
-  border: none;
-  color: 	#00ff00; /* Dark Gray */
-}
-
-.link.alt:hover {
+.social-links a:hover {
   text-decoration: underline;
 }
 
-.stack-container {
-  text-align: center;
-  padding: 20px;
+.hr-solid-content {
+  color: #d0ff00;
+  border: 0;
+  font-size: 19px;
+  padding: 1em 0;
+  position: relative;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+
+}
+.hr-solid-content::before {
+  content: attr(data-content);
+  position: absolute;
+  padding: 0 1ch;
+  line-height: 1px;
+  border: solid #d0ff00;
+  border-width: 0 99vw;
+  width: fit-content;
+  white-space: nowrap;
+  left: 50%;
+  transform: translateX(-50%);
 }
 
-.tech-icon img {
-  filter: grayscale(100%);
-  transition: filter 0.3s ease; /* Add a smooth transition effect */
+
+.tech-stack .icon img {
+  width: 50px;
+  height: 50px;
+  filter: brightness(1) grayscale(100%) contrast(1.5);
+  transition: filter 0.3s ease-in-out, transform 0.3s ease-in-out;
 }
 
-.tech-icon:hover img {
-  filter: grayscale(0%);
-}
-@keyframes fall {
-  0% {
-    background-position: 0 0;
-  }
-  100% {
-    background-position: 0 100%;
-  }
+.tech-stack .icon img:hover {
+  filter: brightness(1) grayscale(0) contrast(1);
+  border: 2px ;
+  transform: scale(1.3);
 }
