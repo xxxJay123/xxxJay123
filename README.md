@@ -2,6 +2,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/xxjaylife11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxjaylife11_" height="30" width="40" /></a>
+
+### GitHub Result:
 </p>
 <p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xxxJay123&theme=onedark&layout=compact&langs_count=10" alt="xxxJay123" /></p>
 <p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xxxJay123&theme=onedark" /></p>
@@ -39,7 +41,7 @@
                 <img src="./assets/spring-3.svg" alt="spring" width="40" height="40"/> </a> 
 </p>
 
-## Certification
+### Certification
 ![Description of the Image](https://drive.google.com/uc?export=view&id=10tL_A8WlTC0od6T_uDsBXBJlbiLsp5tV)
 
 
