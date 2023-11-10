@@ -46,6 +46,6 @@
 
 ### Certification
 1. [IT Coding Bootcamp Certification -- Venturenix Lab](https://drive.google.com/uc?export=view&id=10tL_A8WlTC0od6T_uDsBXBJlbiLsp5tV)
- - Java and Spring Boot Enterprise Microservices Development [Venturenix Lab](https://venturenixlab.co/)
+   - Java and Spring Boot Enterprise Microservices Development [Venturenix Lab](https://venturenixlab.co/)
 
 
