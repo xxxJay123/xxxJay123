@@ -13,7 +13,11 @@
 </p>
 <p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xxxJay123&theme=onedark&layout=compact&langs_count=10" alt="xxxJay123" /></p>
 <p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xxxJay123&theme=onedark" /></p>
+
+### GitHub Repo:
 <p align="left" ><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xxxJay123&repo=xxxJay123&show_owner=true&theme=onedark" /></p>
+<p align="left" ><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xxxJay123&repo=demo-fakecloud&show_owner=true&theme=onedark" /></p>
+<p align="left" ><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xxxJay123&repo=typing-game&show_owner=true&theme=onedark" /></p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p>
