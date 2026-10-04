@@ -47,6 +47,7 @@ export default function Contact() {
         <Reveal className="links">
           <a href="https://www.linkedin.com/in/xxxjay123" target="_blank" rel="noopener">LinkedIn ›</a>
           <a href="https://github.com/xxxJay123" target="_blank" rel="noopener">GitHub ›</a>
+          <a href="https://x.com/xxxjaylife" target="_blank" rel="noopener">X ›</a>
           <a href={asset("Jay-Cheng-CV.pdf")} target="_blank" rel="noopener">{t("k.cv")} ›</a>
           <a href="https://drive.google.com/file/d/10tL_A8WlTC0od6T_uDsBXBJlbiLsp5tV/view" target="_blank" rel="noopener">{t("k.cert")} ›</a>
         </Reveal>
@@ -54,6 +55,7 @@ export default function Contact() {
       <footer className="footer">
         <span>© {new Date().getFullYear()} Jay Cheng · Hong Kong</span>
         <span className="footer-links">
+          <a href="https://x.com/xxxjaylife" target="_blank" rel="noopener">X</a>
           <a href="https://www.instagram.com/xxjaylife11_/" target="_blank" rel="noopener">Instagram</a>
           <a href="https://github.com/xxxJay123/xxxJay123" target="_blank" rel="noopener">{t("f.source")}</a>
         </span>
