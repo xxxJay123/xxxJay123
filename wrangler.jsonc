@@ -1,6 +1,6 @@
 {
 	"$schema": "node_modules/wrangler/config-schema.json",
-	// Static-assets-only Worker serving the Vite build at prof.xxxjay123.xyz.
+	// Static-assets-only Worker serving the Vite build at portfo.xxxjay123.xyz.
 	"name": "jay-cheng-site",
 	// Account IDs are not secret; pinning it saves CI an account lookup.
 	"account_id": "6d27bc00ba6f018aea629b8f0f51853b",
@@ -10,7 +10,7 @@
 		"not_found_handling": "single-page-application"
 	},
 	"routes": [
-		{ "pattern": "prof.xxxjay123.xyz", "custom_domain": true }
+		{ "pattern": "portfo.xxxjay123.xyz", "custom_domain": true }
 	],
 	"workers_dev": false,
 	"preview_urls": false

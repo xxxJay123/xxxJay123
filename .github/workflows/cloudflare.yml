@@ -1,4 +1,4 @@
-# Build the Vite site and deploy it to prof.xxxjay123.xyz (Cloudflare Workers).
+# Build the Vite site and deploy it to portfo.xxxjay123.xyz (Cloudflare Workers).
 # Needs the repo secret CLOUDFLARE_API_TOKEN; until it exists the deploy step
 # is skipped instead of failing.
 name: Deploy site to Cloudflare

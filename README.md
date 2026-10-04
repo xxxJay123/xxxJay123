@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://prof.xxxjay123.xyz/"><img src="./public/assets/banner.svg" alt="Jay Cheng — Accumulate. Wait. Grow." width="100%"></a>
+  <a href="https://portfo.xxxjay123.xyz/"><img src="./public/assets/banner.svg" alt="Jay Cheng — Accumulate. Wait. Grow." width="100%"></a>
 </p>
 
 <p align="center">
-  <a href="https://prof.xxxjay123.xyz/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://portfo.xxxjay123.xyz/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/xxxjay123"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://prof.xxxjay123.xyz/assets/Jay-Cheng-CV.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-ffffff?style=for-the-badge&logo=readdotcv&logoColor=000000" alt="Résumé"></a>
+  <a href="https://portfo.xxxjay123.xyz/assets/Jay-Cheng-CV.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-ffffff?style=for-the-badge&logo=readdotcv&logoColor=000000" alt="Résumé"></a>
   <a href="mailto:jay6677884@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
@@ -64,6 +64,6 @@ npm run dev     # http://localhost:5173
 npm run build   # type-check, then build to dist/
 ```
 
-Every push to `main` deploys to [prof.xxxjay123.xyz](https://prof.xxxjay123.xyz) on Cloudflare Workers (`.github/workflows/cloudflare.yml`, or `npm run deploy:cf` by hand) and to the GitHub Pages mirror (`.github/workflows/pages.yml`).
+Every push to `main` deploys to [portfo.xxxjay123.xyz](https://portfo.xxxjay123.xyz) on Cloudflare Workers (`.github/workflows/cloudflare.yml`, or `npm run deploy:cf` by hand) and to the GitHub Pages mirror (`.github/workflows/pages.yml`).
 
 </details>
