@@ -64,6 +64,6 @@ npm run dev     # http://localhost:5173
 npm run build   # type-check, then build to dist/
 ```
 
-Live at [prof.xxxjay123.xyz](https://prof.xxxjay123.xyz) (Cloudflare Workers, `npm run deploy:cf`) and mirrored on GitHub Pages, which `.github/workflows/pages.yml` deploys on every push to `main`.
+Every push to `main` deploys to [prof.xxxjay123.xyz](https://prof.xxxjay123.xyz) on Cloudflare Workers (`.github/workflows/cloudflare.yml`, or `npm run deploy:cf` by hand) and to the GitHub Pages mirror (`.github/workflows/pages.yml`).
 
 </details>

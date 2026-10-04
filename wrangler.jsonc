@@ -2,6 +2,8 @@
 	"$schema": "node_modules/wrangler/config-schema.json",
 	// Static-assets-only Worker serving the Vite build at prof.xxxjay123.xyz.
 	"name": "jay-cheng-site",
+	// Account IDs are not secret; pinning it saves CI an account lookup.
+	"account_id": "6d27bc00ba6f018aea629b8f0f51853b",
 	"compatibility_date": "2026-10-01",
 	"assets": {
 		"directory": "./dist",
