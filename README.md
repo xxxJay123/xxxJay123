@@ -1,58 +1,69 @@
-<h1 align="center">Hi 👋, I'm Jay Cheng</h1>
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/xxjaylife11_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="xxjaylife11_" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/xxxjay123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="xxxjay123" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/xxxJay123" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xxxJay123" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://xxxjay123.github.io/xxxJay123/"><img src="./public/assets/banner.svg" alt="Jay Cheng — Accumulate. Wait. Grow." width="100%"></a>
 </p>
 
-### Person Website(via Github):
-[xxxJay123's Person Website](https://xxxjay123.github.io/xxxJay123/)
-
-### GitHub Result:
+<p align="center">
+  <a href="https://xxxjay123.github.io/xxxJay123/"><img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"></a>
+  <a href="https://www.linkedin.com/in/xxxjay123"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://xxxjay123.github.io/xxxJay123/assets/Jay-Cheng-CV.pdf"><img src="https://img.shields.io/badge/R%C3%A9sum%C3%A9-ffffff?style=for-the-badge&logo=readdotcv&logoColor=000000" alt="Résumé"></a>
+  <a href="mailto:jay6677884@gmail.com"><img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
-<p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=xxxJay123&theme=onedark&layout=compact&langs_count=10" alt="xxxJay123" /></p>
-<p align="left"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=xxxJay123&theme=onedark" /></p>
 
-### GitHub Repo:
-<p align="left" ><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xxxJay123&repo=xxxJay123&show_owner=true&theme=onedark" /></p>
-<p align="left" ><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xxxJay123&repo=demo-fakecloud&show_owner=true&theme=onedark" /></p>
-<p align="left" ><img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=xxxJay123&repo=typing-game&show_owner=true&theme=onedark" /></p>
+### Accumulate. Wait. Grow.
 
-<h3 align="left">Languages and Tools:</h3>
+I trade the Vegas tunnel, and I learn the same way: build a position one skill at a time, wait for the right entry, then let it compound.
+
+Admin & IT Support by title, developer by habit. I build tools people use every week, run a multi-venue trading platform after hours, and work alongside AI agents every day. Next stop: IT and blockchain engineering.
+
+| | |
+|---|---|
+| **Now** | Admin & IT Support · Hong Kong |
+| **Building** | [Lyrithm](https://lyrithm.io) — quant trading across 7 perpetual venues, centralised and on-chain |
+| **AI** | Claude Code · Codex · MCP · agent skills — built with AI, verified by me |
+| **Learning** | Solidity · Foundry · smart-contract security |
+
+### Highlights
+
+- **Reconciliation engine** — 1,000+ records a month, from several days of manual work to under one day.
+- **Lyrithm** — Java / Spring Boot engine driving Python strategy workers over gRPC, a Next.js dashboard, blue-green Docker deploys and OWASP-gated CI.
+- **This website** — React, a Three.js voxel portrait built from my pixel logo, and scroll-driven storytelling. Source is [right here](./src).
+
+### Open source
+
+| Project | What it is | Stack |
+|---|---|---|
+| [hk-neon-frames](https://github.com/xxxJay123/hk-neon-frames) | Hong Kong neon sign frames for HTML, React and Vue | JavaScript · SVG |
+| [remarkable-chinese-toolkit](https://github.com/xxxJay123/remarkable-chinese-toolkit) | Chinese fonts, input and handwriting for reMarkable tablets | C++ · QML |
+| [ai-tools-beginner-guide](https://xxxjay123.github.io/ai-tools-beginner-guide/) | A bilingual guide to choosing AI tools | HTML · JS |
+| [stock-trainer](https://stock-trainer-nine.vercel.app) | Trading simulator with a hand-built candlestick engine | React · Vite |
+| [lyrithm-strategy-sdk](https://github.com/Lyrithm-io/lyrithm-strategy-sdk) | Apache-2.0 strategy SDK with a Pine Script runtime | Python |
+
+### Stack
+
 <p>
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-<img src="./assets/git-icon.svg" alt="git" width="40" height="40"/> </a>
-
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer">
-<img src="./assets/adobe-illustrator-cc-icon.svg" alt="illustrator" width="40" height="40"/> </a>
-
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer">
-                  <img src="./assets/adobe-photoshop-2.svg" alt="photoshop" width="40" height="40"/> </a>
-
-<a href="https://www.java.com" target="_blank" rel="noreferrer">
-                 <img src="./assets/java.svg" alt="java" width="40" height="40"/></a>
-                
-<a href="https://www.python.org" target="_blank" rel="noreferrer">
-                  <img src="./assets/python-5.svg" alt="python" width="40" height="40"/></a>
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-                  <img src="./assets/mysql-logo.svg" alt="mysql" width="40" height="40"/> </a> 
-
-<a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-                <img src="./assets/postgresql.svg" alt="postgresql" width="40" height="40"/></a>
-
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-                  <img src="./assets/mongodb-icon-2.svg" alt="mongodb" width="40" height="40"/> </a> 
-                
-<a href="https://redis.io" target="_blank" rel="noreferrer"> 
-                <img src="./assets/redis.svg" alt="redis" width="40" height="40"/></a>
-<a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-                <img src="./assets/spring-3.svg" alt="spring" width="40" height="40"/> </a> 
+  <img src="https://skillicons.dev/icons?i=java,spring,python,ts,react,nextjs,threejs,vite,nodejs,docker,githubactions,postgres,redis,mongodb,cloudflare,solidity,linux,git&theme=dark&perline=9" alt="Java, Spring, Python, TypeScript, React, Next.js, Three.js, Vite, Node.js, Docker, GitHub Actions, PostgreSQL, Redis, MongoDB, Cloudflare, Solidity, Linux, Git">
 </p>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxxJay123&layout=compact&langs_count=8&bg_color=000000&title_color=ffffff&text_color=a1a1a6&border_color=2a2a2a" alt="Most used languages" height="150">
 
 ### Certification
-1. [IT Coding Bootcamp Certification -- Venturenix Lab](https://drive.google.com/uc?export=view&id=10tL_A8WlTC0od6T_uDsBXBJlbiLsp5tV)
-   - Java and Spring Boot Enterprise Microservices Development [Venturenix Lab](https://venturenixlab.co/)
 
+- [Java & Spring Boot Enterprise Microservices Development — Venturenix LAB](https://drive.google.com/file/d/10tL_A8WlTC0od6T_uDsBXBJlbiLsp5tV/view)
+- Certificate in Frontend Web Developer — ERB
 
+<details>
+<summary><b>About this repo</b></summary>
+
+<br>
+
+This repo is both my GitHub profile README and the source of my website — Vite, React, TypeScript, Three.js (React Three Fiber), Motion and Lenis.
+
+```bash
+npm install
+npm run dev     # http://localhost:5173
+npm run build   # type-check, then build to dist/
+```
+
+Every push to `main` deploys to GitHub Pages through `.github/workflows/pages.yml`.
+
+</details>
